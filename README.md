@@ -38,23 +38,22 @@ This project focuses on predicting soil fertility by employing machine learning 
 
 ### Logistic Regression
 
-- Accuracy: [Accuracy Score]
+- Accuracy: [83%]
 - Confusion Matrix: [Confusion Matrix Image]
 
 ### Random Forest Classifier
 
-- Accuracy: [Accuracy Score]
+- Accuracy: [87%]
 - Confusion Matrix: [Confusion Matrix Image]
 
 ### Decision Tree
 
-- Accuracy: [Accuracy Score]
+- Accuracy: [82%]
 - Confusion Matrix: [Confusion Matrix Image]
 
 ### Artificial Neural Network (ANN)
 
-- Accuracy: [Accuracy Score]
-- Confusion Matrix: [Confusion Matrix Image]
+- Accuracy: [35%]
 
 ## Conclusion
 
