@@ -57,4 +57,5 @@ This project focuses on predicting soil fertility by employing machine learning 
 
 ## Conclusion
 
-The performance of each model was assessed using accuracy scores and confusion matrices. This README.md provides an overview of the project, highlighting preprocessing steps, models employed, and key evaluation metrics. Detailed results for each model are available in the respective sections. The project aims to contribute to the field of soil fertility prediction through the application of machine learning techniques.
+The performance of each model was assessed using accuracy scores and confusion matrices. This README.md provides an overview of the project, highlighting preprocessing steps, models employed, and key evaluation metrics. Detailed results for each model are available in the respective sections.
+the label '2' in the target column was not being positively classified in neither of the first two algorithms, descision tree had a better result.The project aims to contribute to the field of soil fertility prediction through the application of machine learning techniques.
